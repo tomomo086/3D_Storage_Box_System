@@ -1,0 +1,95 @@
+# 3Dプリント関連
+*.gcode
+*.sl1
+*.ctb
+*.photon
+*.pwmx
+*.pwma
+*.pwmo
+*.pws
+*.pw0
+*.pwx
+*.dlp
+*.cws
+*.zcode
+*.ufp
+*.3mf
+*.amf
+*.slvs
+*.backup*
+
+# CADソフトウェア一時ファイル
+*.tmp
+*.temp
+*.autosave
+*.recover
+*~
+.DS_Store
+Thumbs.db
+
+# Fusion 360
+*.log
+*.lck
+*.f3d.backup*
+*.f3z.backup*
+
+# Slic3r/PrusaSlicer
+*.3mf
+*.sl1
+profiles/
+
+# Cura
+*.curaprofile
+*.curaproject
+
+# IDE/エディタ
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS固有
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
+Thumbs.db
+
+# Python（将来的な自動化スクリプト用）
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+.venv
+
+# Node.js（将来的なWebアプリ用）
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ログファイル
+*.log
+logs/
+
+# 一時ファイル
+tmp/
+temp/
+cache/
+
+# 大容量ファイル（Git LFS対象）
+# *.f3d
+# *.step
+# *.iges
+# *.sat
+# *.avi
+# *.mp4
+# *.mov
