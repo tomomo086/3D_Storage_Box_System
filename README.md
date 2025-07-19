@@ -71,10 +71,63 @@
 4. **印刷最適化**: 市販品よりシンプルで印刷しやすい構造
 5. **パラメトリック設計**: サイズ変更が容易な構造
 
-<img src="Images/3Dbox6.png" alt="Fusion 360設計画面" width="400" height="300">
-<img src="Images/3Dbox5.png" alt="Fusion 360設計画面" width="400" height="300">
-<img src="Images/3Dbox3.png" alt="Fusion 360設計画面" width="400" height="300">
-<img src="Images/3Dbox2.png" alt="Fusion 360設計画面" width="400" height="300">
+### 🎨 設計プロセス写真
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+<div style="flex: 1; min-width: 300px;">
+<img src="Images/3Dbox6.png" alt="Fusion 360設計画面 - アセンブリ" style="width: 100%; max-width: 400px; height: auto;">
+<p style="text-align: center; font-size: 0.9em; color: #666;">アセンブリ設計</p>
+</div>
+
+<div style="flex: 1; min-width: 300px;">
+<img src="Images/3Dbox5.png" alt="Fusion 360設計画面 - 詳細形状" style="width: 100%; max-width: 400px; height: auto;">
+<p style="text-align: center; font-size: 0.9em; color: #666;">詳細形状設計</p>
+</div>
+
+<div style="flex: 1; min-width: 300px;">
+<img src="Images/3Dbox3.png" alt="Fusion 360設計画面 - スタッキング機構" style="width: 100%; max-width: 400px; height: auto;">
+<p style="text-align: center; font-size: 0.9em; color: #666;">スタッキング機構</p>
+</div>
+
+<div style="flex: 1; min-width: 300px;">
+<img src="Images/3Dbox2.png" alt="Fusion 360設計画面 - はめ合わせ部" style="width: 100%; max-width: 400px; height: auto;">
+<p style="text-align: center; font-size: 0.9em; color: #666;">はめ合わせ部設計</p>
+</div>
+
+</div>
+
+## 📸 実際の製品写真
+
+### 🖨️ 3Dプリント工程
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+<div style="flex: 1; min-width: 300px;">
+<img src="Images/IMG_20250630_092257031.JPG" alt="3Dプリント中の様子" style="width: 100%; max-width: 400px; height: auto;">
+<p style="text-align: center; font-size: 0.9em; color: #666;">印刷中の様子</p>
+</div>
+
+<div style="flex: 1; min-width: 300px;">
+<img src="Images/IMG_20250630_092316891.JPG" alt="印刷完了後の製品" style="width: 100%; max-width: 400px; height: auto;">
+<p style="text-align: center; font-size: 0.9em; color: #666;">印刷完了</p>
+</div>
+
+<div style="flex: 1; min-width: 300px;">
+<img src="Images/IMG_20250630_092402496.jpg" alt="組み立て後の製品" style="width: 100%; max-width: 400px; height: auto;">
+<p style="text-align: center; font-size: 0.9em; color: #666;">組み立て完了</p>
+</div>
+
+</div>
+
+### 🏠 実際の使用状況
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+<div style="flex: 1; min-width: 300px;">
+<img src="Images/IMG_20250719_145833046.JPG" alt="実際の使用状況" style="width: 100%; max-width: 400px; height: auto;">
+<p style="text-align: center; font-size: 0.9em; color: #666;">部屋での実際の使用状況</p>
+</div>
+
+</div>
 
 ## 📊 学習成果
 
