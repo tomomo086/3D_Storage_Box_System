@@ -36,8 +36,9 @@
 - [x] 三角の突起と切り欠きにより重ねやすさを実現
 
 ![Fusion 360設計画面](Images/3Dbox6.png)
-![Fusion 360設計画面](Images/スクリーンショット2025-06-30092944.png)
-![Fusion 360設計画面]()
+![Fusion 360設計画面](Images/3Dbox5.png)
+![Fusion 360設計画面](Images/3Dbox3.png)
+![Fusion 360設計画面](Images/3Dbox2.png)
 
 **設計のポイント**:
 1. **スタッキング機構**: 上下の嵌合部設計
@@ -57,11 +58,9 @@
 サポート: 底面のみ少量
 ```
 
-### 印刷結果
-![プリント完成品](Images/photos/printed-parts.jpg)
 
 **品質評価**:
-- ✅ 寸法精度: ±0.1mm以内
+- ✅ 寸法精度: ±0.3mm以内
 - ✅ 表面品質: 良好
 - ✅ 嵌合精度: 調整不要
 - ✅ 強度: 実用十分
@@ -126,12 +125,9 @@
 
 ## 🔗 関連リンク
 
-- [個人ポートフォリオ](https://github.com/username)
-- [他の3Dプリントプロジェクト](https://github.com/username/3d-projects)
-- [設計ノート（ブログ）](https://blog.example.com/3d-design)
+- [個人ポートフォリオ](https://github.com/tomomo086)
 
 ---
 
-**作成者**: [あなたの名前]  
-**連絡先**: [メールアドレス]  
+**作成者**: [tomomo086(@mirai_sousiyo39)+Claude4]   
 **最終更新**: 2025年7月1日
