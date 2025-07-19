@@ -107,7 +107,7 @@
 
 <div style="flex: 1; min-width: 300px;">
 <img src="Images/IMG_20250630_092316891.JPG" alt="実際の使用状況" style="width: 100%; max-width: 400px; height: auto;">
-<p style="text-align: center; font-size: 0.9em; color: #666;">裏側</p>
+<p style="text-align: center; font-size: 0.9em; color: #666;">ちょうどスポッとはまる0.3mmのクリアランスにした</p>
 </div>
 
 </div>
