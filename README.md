@@ -97,17 +97,18 @@
 
 </div>
 
-## 📸 裏側の写真
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-
-</div>
+## 📸 完成品の写真
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
 <div style="flex: 1; min-width: 300px;">
-<img src="Images/IMG_20250630_092316891.JPG" alt="実際の使用状況" style="width: 100%; max-width: 400px; height: auto;">
-<p style="text-align: center; font-size: 0.9em; color: #666;">ちょうどスポッとはまる0.3mmのクリアランスにした</p>
+<img src="Images/IMG_20250630_092316891.JPG" alt="完成品の裏側" style="width: 100%; max-width: 400px; height: auto;">
+<p style="text-align: center; font-size: 0.9em; color: #666;">完成品の裏側</p>
+</div>
+
+<div style="flex: 1; min-width: 300px;">
+<img src="Images/IMG_20250630_092402496.jpg" alt="蓋と本体のはめ合わせ部" style="width: 100%; max-width: 400px; height: auto;">
+<p style="text-align: center; font-size: 0.9em; color: #666;">蓋と本体のはめ合わせ部</p>
 </div>
 
 </div>
