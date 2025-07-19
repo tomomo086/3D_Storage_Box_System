@@ -99,23 +99,7 @@
 
 ## 📸 実際の製品写真
 
-### 🖨️ 3Dプリント工程
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-
-<div style="flex: 1; min-width: 300px;">
-<img src="Images/IMG_20250630_092257031.JPG" alt="3Dプリント中の様子" style="width: 100%; max-width: 400px; height: auto;">
-<p style="text-align: center; font-size: 0.9em; color: #666;">印刷中の様子</p>
-</div>
-
-<div style="flex: 1; min-width: 300px;">
-<img src="Images/IMG_20250630_092316891.JPG" alt="印刷完了後の製品" style="width: 100%; max-width: 400px; height: auto;">
-<p style="text-align: center; font-size: 0.9em; color: #666;">印刷完了</p>
-</div>
-
-<div style="flex: 1; min-width: 300px;">
-<img src="Images/IMG_20250630_092402496.jpg" alt="組み立て後の製品" style="width: 100%; max-width: 400px; height: auto;">
-<p style="text-align: center; font-size: 0.9em; color: #666;">組み立て完了</p>
-</div>
 
 </div>
 
