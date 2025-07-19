@@ -103,12 +103,12 @@
 
 </div>
 
-### 🏠 実際の使用状況
+### 🏠 裏側の写真
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
 <div style="flex: 1; min-width: 300px;">
-<img src="Images/IMG_20250719_145833046.JPG" alt="実際の使用状況" style="width: 100%; max-width: 400px; height: auto;">
-<p style="text-align: center; font-size: 0.9em; color: #666;">部屋での実際の使用状況</p>
+<img src="Images/IMG_20250630_092316891.JPG" alt="実際の使用状況" style="width: 100%; max-width: 400px; height: auto;">
+<p style="text-align: center; font-size: 0.9em; color: #666;">裏側</p>
 </div>
 
 </div>
