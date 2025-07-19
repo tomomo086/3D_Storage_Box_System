@@ -97,13 +97,12 @@
 
 </div>
 
-## 📸 実際の製品写真
+## 📸 裏側の写真
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
 </div>
 
-### 🏠 裏側の写真
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
 <div style="flex: 1; min-width: 300px;">
