@@ -189,7 +189,7 @@
 
 ## 🔗 関連リンク
 
-- [個人ポートフォリオ](https://github.com/tomomo086)
+- [tomomo086(@mirai_sousiyo39):Github](https://github.com/tomomo086)
 
 ---
 
