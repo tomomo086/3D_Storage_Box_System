@@ -1,5 +1,10 @@
 # 📦 3Dプリント収納ボックス
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![3D Printer: Neptune 4 Pro](https://img.shields.io/badge/3D%20Printer-Neptune%204%20Pro-blue.svg)](https://www.elegoo.com/products/elegoo-neptune-4-pro-3d-printer)
+[![AI Assistant: Claude 4](https://img.shields.io/badge/AI%20Assistant-Claude%204-purple.svg)](https://claude.ai)
+[![Design Tool: Fusion 360](https://img.shields.io/badge/Design%20Tool-Fusion%20360-orange.svg)](https://www.autodesk.com/products/fusion-360)
+
 シンプルで実用的な3Dプリント製収納ボックスの設計・制作プロジェクト
 
 ![メイン画像](Images/IMG_20250630_092257031.JPG)
@@ -35,10 +40,10 @@
 - [x] 複数サイズ対応
 - [x] 三角の突起と切り欠きにより重ねやすさを実現
 
-![Fusion 360設計画面](Images/3Dbox6.png)
-![Fusion 360設計画面](Images/3Dbox5.png)
-![Fusion 360設計画面](Images/3Dbox3.png)
-![Fusion 360設計画面](Images/3Dbox2.png)
+<img src="Images/3Dbox6.png" alt="Fusion 360設計画面" width="400" height="300">
+<img src="Images/3Dbox5.png" alt="Fusion 360設計画面" width="400" height="300">
+<img src="Images/3Dbox3.png" alt="Fusion 360設計画面" width="400" height="300">
+<img src="Images/3Dbox2.png" alt="Fusion 360設計画面" width="400" height="300">
 
 **設計のポイント**:
 1. **スタッキング機構**: 上下の嵌合部設計
