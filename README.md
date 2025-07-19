@@ -189,8 +189,8 @@
 
 ## 🔗 関連リンク
 
-- [tomomo086(@mirai_sousiyo39):Github](https://github.com/tomomo086)
-
+- [tomomo086:Github](https://github.com/tomomo086)
+- [@mirai_sousiyo39:X](https://x.com/mirai_sousiyo39)
 ---
 
 **作成者**: [tomomo086(@mirai_sousiyo39)+Claude4]   
