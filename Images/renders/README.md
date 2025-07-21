@@ -15,7 +15,7 @@
 ### 3. 断面図・詳細図
 - `cross-section.png` - 断面図
 - `fitting-detail.png` - 嵌合部詳細
-- `stacking-mechanism.png` - スタッキング機構詳細
+- `stacking-mechanism.png` - はめ合わせ部詳細
 
 ## Fusion 360での作成手順
 
