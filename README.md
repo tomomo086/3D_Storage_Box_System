@@ -81,8 +81,8 @@
 </div>
 
 <div style="flex: 1; min-width: 300px;">
-<img src="Images/3Dbox5.png" alt="Fusion 360設計画面 - 詳細形状" style="width: 100%; max-width: 400px; height: auto;">
-<p style="text-align: center; font-size: 0.9em; color: #666;">詳細形状設計</p>
+<img src="Images/3Dbox5.png" alt="スライサーソフト - 印刷設定画面" style="width: 100%; max-width: 400px; height: auto;">
+<p style="text-align: center; font-size: 0.9em; color: #666;">スライサーソフトによる表示</p>
 </div>
 
 <div style="flex: 1; min-width: 300px;">
