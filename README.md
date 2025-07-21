@@ -65,7 +65,7 @@
 - ✅ **拡張性**: パラメトリック設計によるサイズ展開
 
 ### 🔧 技術的工夫
-1. **スタッキング機構**: 三角突起と切り欠きによる安定した積み重ね
+1. **はめ合わせ部**: 三角突起と切り欠きによる安定した積み重ね
 2. **オーバーハング考慮**: 45度以下の角度でサポート材不要
 3. **はめ合わせ設計**: 0.3mmの適切なクリアランスで簡単な組み立て
 4. **印刷最適化**: 市販品よりシンプルで印刷しやすい構造
@@ -86,8 +86,8 @@
 </div>
 
 <div style="flex: 1; min-width: 300px;">
-<img src="Images/3Dbox3.png" alt="Fusion 360設計画面 - スタッキング機構" style="width: 100%; max-width: 400px; height: auto;">
-<p style="text-align: center; font-size: 0.9em; color: #666;">スタッキング機構</p>
+<img src="Images/3Dbox3.png" alt="Fusion 360設計画面 - はめ合わせ部" style="width: 100%; max-width: 400px; height: auto;">
+<p style="text-align: center; font-size: 0.9em; color: #666;">はめ合わせ部</p>
 </div>
 
 <div style="flex: 1; min-width: 300px;">
